@@ -7,7 +7,7 @@ public enum enumJourPlus {
 		switch(this) {
 			case SAMEDI : return "cinema";
 			case DIMANCHE : return "dormir";
-			default : return "travailler";
+			default : return "travailler"; 
 			
 		}
  	}
